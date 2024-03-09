@@ -19,14 +19,8 @@ Este projeto é parte do meu Trabalho de Conclusão de Curso (TCC) e consiste em
 ## Tecnologias Utilizadas
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Banco de Dados**: MongoDB
+- **Backend**: Node.js, MychartArt.js
+- **Banco de Dados**: MySql
 - **Integrações**: Stripe (para pagamentos)
 
-## Instalação e Uso
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
 # SenseParty
